@@ -1,0 +1,6 @@
+test_list = [0, 0, 5, 6, 0]
+print("The original list is" + str(test_list))
+res= next( (test_list) )
+print("The values till first True value : " + (res))
+
+
